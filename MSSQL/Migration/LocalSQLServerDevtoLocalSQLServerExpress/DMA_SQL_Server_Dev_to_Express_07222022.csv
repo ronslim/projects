@@ -1,0 +1,24 @@
+"","Congratulations on migrating your SQL Server! Here are the details on the databases and logins that were migrated. This report covers the successes, failures, error descriptions and troubleshooting information, wherever appropriate."
+
+"DATABASES"
+"Source platform: SQL Server","Source server name: DESKTOP-JLEGGJC\SQLDEVELOPER","Source version: SQL Server 2019","Duration:","0h 0m 21s"
+"Target platform: SQL Server","Target server name: DESKTOP-JLEGGJC\SQLEXPRESS","Target version: SQL Server 2019"
+
+"Source database name","Source compat level","Target database name","Target compat level","Migration status","Description"
+"AdventureWorks2019","140","AdventureWorksDMA2019","140","Success","Test your application before moving into production"
+"SSISDB","150","","","Skipped","Database was not selected for migration."
+
+"DATABASE LOGINS"
+"Login name","Login type","Enabled","Default database","Migration status","Description","Learn more"
+"##MS_PolicyEventProcessingLogin##","SqlLogin","False","master","Skipped","Not selected by user.","How to transfer logins and passwords between instances of SQL Server [https://go.microsoft.com/fwlink/?LinkID=817303]"
+"##MS_PolicyTsqlExecutionLogin##","SqlLogin","False","master","Skipped","Not selected by user.","How to transfer logins and passwords between instances of SQL Server [https://go.microsoft.com/fwlink/?LinkID=817303]"
+"##MS_SSISLogDBWorkerAgentLogin##","SqlLogin","True","master","Skipped","Not selected by user.","How to transfer logins and passwords between instances of SQL Server [https://go.microsoft.com/fwlink/?LinkID=817303]"
+"##MS_SSISServerCleanupJobLogin##","SqlLogin","False","master","Skipped","Not selected by user.","How to transfer logins and passwords between instances of SQL Server [https://go.microsoft.com/fwlink/?LinkID=817303]"
+"DESKTOP-JLEGGJC\User","WindowsUser","True","master","Skipped","Not selected by user.","How to transfer logins and passwords between instances of SQL Server [https://go.microsoft.com/fwlink/?LinkID=817303]"
+
+"Server Roles"
+"None of the roles were migrated"
+
+"ORPHANED USERS"
+"No orphaned users"
+
