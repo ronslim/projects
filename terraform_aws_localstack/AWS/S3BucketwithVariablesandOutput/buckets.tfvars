@@ -1,1 +1,0 @@
-bucket_id = "test-bucket"
