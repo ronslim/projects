@@ -1,0 +1,12 @@
+- name: Create a storage account on Microsoft Azure
+  hosts: localhost
+  connection: local
+  tasks:
+    - name: Create storage account
+      azure_rm_storageaccount:
+        resource_group: learn-bc133ef0-e9d1-4147-a5c1-8c711f4ae3cb
+        name: testansiblestorage072022
+        kind: StorageV2
+        access_tier: Hot
+        account_type: Standard_LRS
+        auth_source: cli
