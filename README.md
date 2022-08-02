@@ -1,7 +1,10 @@
 Projects:  
   
-Ansible for Localstack AWS S3 Bucket  
-Ansible for Azure Storage Cloud Shell  
-Terraform for Localstack AWS S3 Bucket  
-Migration from SQL Server Developer Edition to SQL Server Express Edition   
-Migration from Local SQL Server to Azure SQL Database  
+Ansible  
+- AWS S3 Bucket  
+- Azure Storage  
+Terraform  
+- AWS S3 Bucket  
+Azure SQL/MS SQL  
+- Migration via Microsoft Data Migration Assistant  
+- Backup and Recovery  
