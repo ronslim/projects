@@ -1,0 +1,121 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                        "Artist": {
+                            "S": "James Band"
+                        },
+                        "SongTitle": {
+                            "S": "I'll be Stronger"
+                        },
+                        "SongNo": {
+                            "S": "1"
+                        },
+                        "AlbumTitle": {
+                            "S": "Spy Life"
+                        }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                        "Artist": {
+                            "S": "James Band"
+                        },
+                        "SongTitle": {
+                            "S": "Let's Play"
+                        },
+                        "SongNo": {
+                            "S": "2"
+                        },
+                        "Awards": {
+                            "S": "1"
+                        },
+                        "AlbumTitle": {
+                            "S": "Spy Life"
+                        }
+                }
+            }
+		},
+		{
+            "PutRequest": {
+                "Item": {
+                        "Artist": {
+                            "S": "James Band"
+                        },
+                        "SongTitle": {
+                            "S": "Money Money"
+                        },
+                        "SongNo": {
+                            "S": "3"
+                        },
+                        "Awards": {
+                            "S": "5"
+                        },
+                        "AlbumTitle": {
+                            "S": "Spy Life"
+                        }
+                }
+            }
+		},
+		{
+            "PutRequest": {
+                "Item": {
+                        "Artist": {
+                            "S": "James Band"
+                        },
+                        "SongTitle": {
+                            "S": "Spy Girls"
+                        },
+                        "SongNo": {
+                            "S": "4"
+                        },
+                        "AlbumTitle": {
+                            "S": "Spy Life"
+                        }
+                }
+            }
+		},
+		{
+            "PutRequest": {
+                "Item": {
+                        "Artist": {
+                            "S": "James Band"
+                        },
+                        "SongTitle": {
+                            "S": "Dangerous"
+                        },
+                        "SongNo": {
+                            "S": "5"
+                        },
+                        "Awards": {
+                            "S": "5"
+                        },
+                        "AlbumTitle": {
+                            "S": "Spy Life"
+                        }
+                }
+            }
+		},
+		{
+            "PutRequest": {
+                "Item": {
+                        "Artist": {
+                            "S": "James Band"
+                        },
+                        "SongTitle": {
+                            "S": "Killer"
+                        },
+                        "SongNo": {
+                            "S": "6"
+                        },
+                        "AlbumTitle": {
+                            "S": "Spy Life"
+                        }
+                }
+            }
+        }
+    ]
+}
