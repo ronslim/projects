@@ -8,6 +8,8 @@ Terraform
 - AWS S3 Bucket  
 - AWS IAM  
 - Azure Storage  
+- Azure AD  
+- Multicloud AWS IAM and Azure AD  
   
 Azure SQL/MS SQL  
 - Migration via Microsoft Data Migration Assistant  
