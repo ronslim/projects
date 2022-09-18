@@ -10,6 +10,7 @@ Terraform
 - Azure Storage  
 - Azure AD  
 - Multicloud AWS IAM and Azure AD  
+- GCP VM Instances  
   
 Azure SQL/MS SQL  
 - Migration via Microsoft Data Migration Assistant  
