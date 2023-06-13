@@ -21,3 +21,6 @@ Amazon Dynamo DB (Local only)
 - Getting Started (Query and Data Manipulation) using AWS CLI  
 - Import json Data via AWS CLI  
 - Exploring Operation Builder of NoSQL Workbench for DynamoDB  
+  
+Jenkins  
+- Simple Hello World Pipeline with Github Integration  
