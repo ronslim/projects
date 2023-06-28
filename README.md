@@ -24,3 +24,4 @@ Amazon Dynamo DB (Local only)
   
 Jenkins  
 - Simple Hello World Pipeline with Github Integration  
+- Azure DevOps Integration with Jenkins  
