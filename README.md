@@ -7,10 +7,12 @@ Ansible
 Terraform  
 - AWS S3 Bucket  
 - AWS IAM  
+- AWS EC2 with custom vpc  
 - Azure Storage  
 - Azure AD  
 - Multicloud AWS IAM and Azure AD  
 - GCP VM Instances  
+- Azure VM with IIS Extension  
   
 Azure SQL/MS SQL  
 - Migration via Microsoft Data Migration Assistant  
