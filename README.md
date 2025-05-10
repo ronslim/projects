@@ -32,6 +32,9 @@ Jenkins
   
 Kubernetes  
 - Grafana Prometheus Monitoring on Selenium Grid Kubernetes Testing  
+- Install minikube rhel 9.5  
+- Kubernetes, Docker Hub, and Azure DevOps Integration  
+- Helm and Prometheus and Grafana on Minikube Install  
   
 Packer  
 - Packer Build RHEL 9.2 sample  
