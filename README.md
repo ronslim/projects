@@ -35,6 +35,7 @@ Kubernetes
 - Install minikube rhel 9.5  
 - Kubernetes, Docker Hub, and Azure DevOps Integration  
 - Helm and Prometheus and Grafana on Minikube Install  
+- Postgre SQL pgadmin Kubernetes  
   
 Packer  
 - Packer Build RHEL 9.2 sample  
