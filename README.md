@@ -29,6 +29,8 @@ Jenkins
 - Simple Hello World Pipeline with Github Integration  
 - Azure DevOps Integration with Jenkins  
 - Azure DevOps Kubernetes Integration with Jenkins Selenium  
+- Jenkins Install in Redhat 9.5  
+- Jenkins Docker Pipeline  
   
 Kubernetes  
 - Grafana Prometheus Monitoring on Selenium Grid Kubernetes Testing  
