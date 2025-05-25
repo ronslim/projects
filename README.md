@@ -32,6 +32,8 @@ Jenkins
 - Jenkins Install in Redhat 9.5  
 - Jenkins Docker Pipeline  
 - Jenkins Git Flask Docker integration many ways  
+- Jenkins Backup and Restore  
+- Jenkins Install Blue Ocean  
   
 Kubernetes  
 - Grafana Prometheus Monitoring on Selenium Grid Kubernetes Testing  
