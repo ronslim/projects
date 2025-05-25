@@ -34,6 +34,7 @@ Jenkins
 - Jenkins Git Flask Docker integration many ways  
 - Jenkins Backup and Restore  
 - Jenkins Install Blue Ocean  
+- Jenkins install Pipeline Stage and Graph View  
   
 Kubernetes  
 - Grafana Prometheus Monitoring on Selenium Grid Kubernetes Testing  
